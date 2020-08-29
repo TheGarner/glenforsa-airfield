@@ -17,6 +17,3 @@ Unzip the folder "thegarner-airport-eg13-glenforsaairfield.zip" and copy the fol
 * Added 3x boats onto the Sound of Mull
 * Additional vegetation
 * Watch out for the geese (If anyone knows how I can get these to move, please do let me know)
-
-# Note
-A random airport vehicle may spawn on the area near the GA parking spots. It wasn't put there intentionlly but I am trying to get it removed. \
