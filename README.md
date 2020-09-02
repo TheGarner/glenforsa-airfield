@@ -17,3 +17,7 @@ Unzip the folder "thegarner-airport-eg13-glenforsaairfield.zip" and copy the fol
 * Added 3x boats onto the Sound of Mull
 * Additional vegetation
 * Watch out for the geese (If anyone knows how I can get these to move, please do let me know)
+
+# Version Changelog
+v1.1 (Released 2nd Sept 2020)
+* Applied fix to windsocks and reduced/replaced static aircraft with generic static aircraft to improve performance and a workaround for the aircraft duplication issue if you choose the same plane that is parked at the airport. If you have the airfield already installed and do not care for these changes then you can ignore this update.
